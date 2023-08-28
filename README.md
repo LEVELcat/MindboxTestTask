@@ -10,6 +10,7 @@
 -Проверку на то, является ли треугольник прямоугольным
 
 Решение: https://github.com/LEVELcat/MindboxTestTask/tree/master/MindboxTestTask
+
 Юнит-тесты: https://github.com/LEVELcat/MindboxTestTask/tree/master/UnitTestSolution
 
 2 :
