@@ -9,8 +9,13 @@
 -Вычисление площади фигуры без знания типа фигуры в compile-time
 -Проверку на то, является ли треугольник прямоугольным
 
+Решение: https://github.com/LEVELcat/MindboxTestTask/tree/master/MindboxTestTask
+Юнит-тесты: https://github.com/LEVELcat/MindboxTestTask/tree/master/UnitTestSolution
+
 2 :
 В базе данных MS SQL Server есть продукты и категории. 
 Одному продукту может соответствовать много категорий, в одной категории может быть много продуктов. 
 Напишите SQL запрос для выбора всех пар «Имя продукта – Имя категории». 
 Если у продукта нет категорий, то его имя все равно должно выводиться.
+
+Решение: https://github.com/LEVELcat/MindboxTestTask/blob/master/SQL_query.sql
